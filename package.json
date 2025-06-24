@@ -1,9 +1,9 @@
 {
+  "homepage": "https://sankari2705.github.io/React-project1/",
   "name": "q",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sankari2705.github.io/React-project1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
